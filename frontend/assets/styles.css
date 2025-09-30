@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global CSS variables */
+:root {
+  --primary-color: #3b82f6;
+  --secondary-color: #f59e0b;
+  --bg-color: #ffffff;
+  --text-color: #212121;
+}
+
+html, body, #__nuxt { 
+    height: 100%;
+}
+
+html {
+    font-family: "Merriweather Sans", sans-serif;
+    min-height: 100vh;
+    color: var(--text-color);
+    line-height: 1.6;
+    font-size: 16px;
+    overflow-x: hidden;
+    background-color: var(--bg-color);
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Containers */
+.container {
+    @apply mx-auto px-4 max-w-5xl;
+}
+
+.container-xl {
+    @apply mx-auto px-4 max-w-7xl;
+}
+
+/* Links & inputs*/
+a {
+    color: var(--primary-color);
+    text-decoration: none;
+    transition: color 0.2s;
+
+    &:hover {
+        color: var(--secondary-color);
+        text-decoration: underline;
+    }
+}
+
+input, button, select, textarea {
+    color: var(--text-color);
+}
+

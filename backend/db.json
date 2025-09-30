@@ -1,0 +1,1056 @@
+{
+  "documents": [
+    {
+      "id": "a8e5b4a0-73f1-4a1e-8742-9a3d6f4c8b9d",
+      "metadata": {
+        "title": "Codul Civil",
+        "jurisdiction": "România",
+        "date_enacted": "2020-01-02",
+        "version": "1.0",
+        "slug": "codul-civil"
+      },
+      "sections": [
+        {
+          "id": "e2a1b0f5-9c8d-4b7a-8f6e-3d4c5b6a7b8c",
+          "path": "1",
+          "classification": {
+            "type": "Sectiune",
+            "label": "1"
+          },
+          "text": "Dispoziții generale privind aplicarea legii civile",
+          "sections": [
+            {
+              "id": "f0e9d8c7-6b5a-4c3d-2b1a-0f9e8d7c6b5a",
+              "path": "1.1",
+              "classification": {
+                "type": "Articol",
+                "label": "1"
+              },
+              "text": "Legea civilă se aplică tuturor raporturilor de drept privat.",
+              "sections": [
+                {
+                  "id": "d9c8b7a6-5a4b-3c2d-1b0a-f9e8d7c6b5a4",
+                  "path": "1.1.1",
+                  "classification": {
+                    "type": "Alineat",
+                    "label": "1"
+                  },
+                  "text": "Legea civilă nu are caracter retroactiv."
+                },
+                {
+                  "id": "c8b7a6d5-4b3c-2d1b-0a9f-e8d7c6b5a4b3",
+                  "path": "1.1.2",
+                  "classification": {
+                    "type": "Alineat",
+                    "label": "2"
+                  },
+                  "text": "În cazul conflictului de legi în timp, se aplică legea în vigoare la data nașterii raportului juridic."
+                }
+              ]
+            },
+            {
+              "id": "b7a6d5c4-3b2c-1d0a-9f8e-7d6c5b4a3b2c",
+              "path": "1.2",
+              "classification": {
+                "type": "Articol",
+                "label": "2"
+              },
+              "text": "Dispozițiile legii civile se interpretează în conformitate cu voința legiuitorului și scopul normei."
+            }
+          ]
+        },
+        {
+          "id": "a6d5c4b3-2c1b-0a9f-8e7d-6c5b4a3b2c1d",
+          "path": "2",
+          "classification": {
+            "type": "Sectiune",
+            "label": "2"
+          },
+          "text": "Capacitatea juridică",
+          "sections": [
+            {
+              "id": "d5c4b3a2-1b0a-9f8e-7d6c-5b4a3b2c1d0e",
+              "path": "2.1",
+              "classification": {
+                "type": "Articol",
+                "label": "1"
+              },
+              "text": "Capacitatea de folosință este recunoscută oricărei persoane de la naștere până la deces.",
+              "sections": [
+                {
+                  "id": "c4b3a2d1-0a9f-8e7d-6c5b-4a3b2c1d0e9f",
+                  "path": "2.1.1",
+                  "classification": {
+                    "type": "Alineat",
+                    "label": "1"
+                  },
+                  "text": "Persoana dobândește capacitate juridică în mod automat, fără formalități."
+                }
+              ]
+            },
+            {
+              "id": "b3a2d1c0-9f8e-7d6c-5b4a-3b2c1d0e9f8a",
+              "path": "2.2",
+              "classification": {
+                "type": "Articol",
+                "label": "2"
+              },
+              "text": "Capacitatea de exercițiu constă în aptitudinea de a încheia acte juridice."
+            }
+          ]
+        },
+        {
+          "id": "a2d1c0b9-8e7d-6c5b-4a3b-2c1d0e9f8a7b",
+          "path": "3",
+          "classification": {
+            "type": "Sectiune",
+            "label": "3"
+          },
+          "text": "Actul juridic civil",
+          "sections": [
+            {
+              "id": "d1c0b9a8-7d6c-5b4a-3b2c-1d0e9f8a7b6c",
+              "path": "3.1",
+              "classification": {
+                "type": "Articol",
+                "label": "1"
+              },
+              "text": "Actul juridic civil este manifestarea de voință făcută cu intenția de a produce efecte juridice.",
+              "sections": [
+                {
+                  "id": "c0b9a8d7-6c5b-4a3b-2c1d-0e9f8a7b6c5d",
+                  "path": "3.1.1",
+                  "classification": {
+                    "type": "Alineat",
+                    "label": "1"
+                  },
+                  "text": "Poate fi unilateral, bilateral sau multilateral."
+                },
+                {
+                  "id": "b9a8d7c6-5b4a-3b2c-1d0e-9f8a7b6c5d4e",
+                  "path": "3.1.2",
+                  "classification": {
+                    "type": "Alineat",
+                    "label": "2"
+                  },
+                  "text": "Pentru validitate, actul juridic trebuie să întrunească următoarele condiții esențiale:",
+                  "sections": [
+                    {
+                      "id": "4e1a3b8c-1d9e-4a7b-9f8c-6e5d4c3b2a1f",
+                      "path": "3.1.2.1",
+                      "classification": {
+                        "type": "Litera",
+                        "label": "a"
+                      },
+                      "text": "consimțământul valabil al părților;"
+                    },
+                    {
+                      "id": "9d8e7c6b-5a4b-3c2d-1b0a-f9e8d7c6b5a4",
+                      "path": "3.1.2.2",
+                      "classification": {
+                        "type": "Litera",
+                        "label": "b"
+                      },
+                      "text": "capacitatea de a contracta;"
+                    },
+                    {
+                      "id": "a6b5c4d3-e2f1-0a9b-8c7d-6e5f4a3b2c1d",
+                      "path": "3.1.2.3",
+                      "classification": {
+                        "type": "Litera",
+                        "label": "c"
+                      },
+                      "text": "un obiect determinat și licit;"
+                    },
+                    {
+                      "id": "f5e4d3c2-b1a0-9f8e-7d6c-5b4a3b2c1d0e",
+                      "path": "3.1.2.4",
+                      "classification": {
+                        "type": "Litera",
+                        "label": "d"
+                      },
+                      "text": "o cauză licită și morală."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8d7c6b5a-3b2c-1d0e-9f8a-7b6c5d4e3f2a",
+          "path": "4",
+          "classification": {
+            "type": "Sectiune",
+            "label": "4"
+          },
+          "text": "Patrimoniul și drepturile reale",
+          "sections": [
+            {
+              "id": "7c6b5a4b-2c1d-0e9f-8a7b-6c5d4e3f2a1b",
+              "path": "4.1",
+              "classification": {
+                "type": "Articol",
+                "label": "1"
+              },
+              "text": "Patrimoniul este totalitatea drepturilor și obligațiilor cu valoare economică ce aparțin unei persoane."
+            },
+            {
+              "id": "5a4b3c2d-0e9f-8a7b-6c5d-4e3f2a1b0c9d",
+              "path": "4.2",
+              "classification": {
+                "type": "Articol",
+                "label": "2"
+              },
+              "text": "Dreptul de proprietate este exclusiv, perpetuu și absolut, în limitele legii."
+            }
+          ]
+        },
+        {
+          "id": "4b3c2d1e-9f8a-7b6c-5d4e-3f2a1b0c9d8e",
+          "path": "5",
+          "classification": {
+            "type": "Sectiune",
+            "label": "5"
+          },
+          "text": "Obligații și răspundere civilă",
+          "sections": [
+            {
+              "id": "3c2d1e0f-8a7b-6c5d-4e3f-2a1b0c9d8e7f",
+              "path": "5.1",
+              "classification": {
+                "type": "Articol",
+                "label": "1"
+              },
+              "text": "Obligația este raportul juridic în temeiul căruia o parte (debitor) este ținută să execute o prestație față de cealaltă parte (creditor)."
+            },
+            {
+              "id": "1e0f9a8b-6c5d-4e3f-2a1b-0c9d8e7f6a5b",
+              "path": "5.2",
+              "classification": {
+                "type": "Articol",
+                "label": "2"
+              },
+              "text": "Neexecutarea obligației atrage răspunderea civilă, dacă nu este justificată legal."
+            }
+          ]
+        },
+        {
+          "id": "0f9a8b7c-5d4e-3f2a-1b0c-9d8e7f6a5b4c",
+          "path": "6",
+          "classification": {
+            "type": "Sectiune",
+            "label": "6"
+          },
+          "text": "Contracte speciale",
+          "sections": [
+            {
+              "id": "9a8b7c6d-4e3f-2a1b-0c9d-8e7f6a5b4c3d",
+              "path": "6.1",
+              "classification": {
+                "type": "Sectiune",
+                "label": "A"
+              },
+              "text": "Contractul de vânzare",
+              "sections": [
+                {
+                  "id": "8b7c6d5e-3f2a-1b0c-9d8e-7f6a5b4c3d2e",
+                  "path": "6.1.1",
+                  "classification": {
+                    "type": "Articol",
+                    "label": "1"
+                  },
+                  "text": "Vânzarea este contractul prin care vânzătorul transmite sau, după caz, se obligă să transmită cumpărătorului proprietatea unui bun în schimbul unui preț pe care cumpărătorul se obligă să îl plătească."
+                }
+              ]
+            },
+            {
+              "id": "7c6d5e4f-2a1b-0c9d-8e7f-6a5b4c3d2e1f",
+              "path": "6.2",
+              "classification": {
+                "type": "Sectiune",
+                "label": "B"
+              },
+              "text": "Contractul de mandat",
+              "sections": [
+                {
+                  "id": "6d5e4f3a-1b0c-9d8e-7f6a-5b4c3d2e1f0a",
+                  "path": "6.2.1",
+                  "classification": {
+                    "type": "Articol",
+                    "label": "1"
+                  },
+                  "text": "Mandatul este contractul prin care o parte, numită mandatar, se obligă să încheie unul sau mai multe acte juridice pe seama celeilalte părți, numită mandant."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5e4f3a2b-0c9d-8e7f-6a5b-4c3d2e1f0a9b",
+          "path": "7",
+          "classification": {
+            "type": "Sectiune",
+            "label": "7"
+          },
+          "text": "Prescripția extinctivă și termenele",
+          "sections": [
+            {
+              "id": "4f3a2b1c-9d8e-7f6a-5b4c-3d2e1f0a9b8c",
+              "path": "7.1",
+              "classification": {
+                "type": "Articol",
+                "label": "1"
+              },
+              "text": "Dreptul la acțiune este stins prin neexercitare în termenul prevăzut de lege.",
+              "sections": [
+                {
+                  "id": "3a2b1c0d-8e7f-6a5b-4c3d-2e1f0a9b8c7d",
+                  "path": "7.1.1",
+                  "classification": {
+                    "type": "Alineat",
+                    "label": "1"
+                  },
+                  "text": "Termenul general de prescripție este de 3 ani, dacă legea nu prevede altfel."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2b1c0d9e-7f6a-5b4c-3d2e-1f0a9b8c7d6e",
+          "path": "8",
+          "classification": {
+            "type": "Sectiune",
+            "label": "8"
+          },
+          "text": "Succesiuni",
+          "sections": [
+            {
+              "id": "1c0d9e8f-6a5b-4c3d-2e1f-0a9b8c7d6e5f",
+              "path": "8.1",
+              "classification": {
+                "type": "Articol",
+                "label": "1"
+              },
+              "text": "Moștenirea este transmiterea patrimoniului unei persoane fizice decedate către una sau mai multe persoane în ființă."
+            },
+            {
+              "id": "0d9e8f7a-5b4c-3d2e-1f0a-9b8c7d6e5f4a",
+              "path": "8.2",
+              "classification": {
+                "type": "Sectiune",
+                "label": "A"
+              },
+              "text": "Moștenirea legală",
+              "sections": [
+                {
+                  "id": "9e8f7a6b-4c3d-2e1f-0a9b-8c7d6e5f4a3b",
+                  "path": "8.2.1",
+                  "classification": {
+                    "type": "Articol",
+                    "label": "1"
+                  },
+                  "text": "Moștenirea se cuvine în ordinea și în cotele determinate de lege, dacă defunctul nu a dispus altfel prin testament."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11223344-5566-7788-99aa-bbccddeeff00",
+          "path": "9",
+          "classification": {
+            "type": "Sectiune",
+            "label": "9"
+          },
+          "text": "Bunurile",
+          "sections": [
+            {
+              "id": "aabbccdd-eeff-0011-2233-445566778899",
+              "path": "9.1",
+              "classification": {
+                "type": "Articol",
+                "label": "1"
+              },
+              "text": "Sunt bunuri lucrurile, corporale sau necorporale, care constituie obiectul unui drept patrimonial."
+            },
+            {
+              "id": "ffeeddcc-bbaa-9988-7766-554433221100",
+              "path": "9.2",
+              "classification": {
+                "type": "Sectiune",
+                "label": "A"
+              },
+              "text": "Clasificarea bunurilor",
+              "sections": [
+                {
+                  "id": "deadbeef-face-b00c-cafe-babefeedbabe",
+                  "path": "9.2.1",
+                  "classification": {
+                    "type": "Articol",
+                    "label": "1"
+                  },
+                  "text": "Bunurile sunt mobile sau imobile.",
+                  "sections": [
+                    {
+                      "id": "badc0ffe-e1de-a50e-c0de-5caff01dedad",
+                      "path": "9.2.1.1",
+                      "classification": {
+                        "type": "Alineat",
+                        "label": "1"
+                      },
+                      "text": "Sunt considerate imobile prin natura lor:",
+                      "sections": [
+                        {
+                          "id": "c0ffee-d0d0-caca-baba-d0d0d0d0d0d0",
+                          "path": "9.2.1.1.1",
+                          "classification": {
+                            "type": "Litera",
+                            "label": "a"
+                          },
+                          "text": "terenurile, izvoarele și cursurile de apă;"
+                        },
+                        {
+                          "id": "decafbad-dead-beef-babe-f00dfeedbabe",
+                          "path": "9.2.1.1.2",
+                          "classification": {
+                            "type": "Litera",
+                            "label": "b"
+                          },
+                          "text": "plantațiile prinse în rădăcini;"
+                        },
+                        {
+                          "id": "feedface-ba5e-ca11-ab1e-deedfeedfade",
+                          "path": "9.2.1.1.3",
+                          "classification": {
+                            "type": "Litera",
+                            "label": "c"
+                          },
+                          "text": "clădirile și orice alte construcții încorporate în sol."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "f01dab1e-ca55-e77e-5ca1-ab1ecab005e5",
+          "path": "10",
+          "classification": {
+            "type": "Sectiune",
+            "label": "10"
+          },
+          "text": "Probațiunea",
+          "sections": [
+            {
+              "id": "ca11ab1e-fade-b10c-b00b-1e5f00d1e5ea",
+              "path": "10.1",
+              "classification": {
+                "type": "Articol",
+                "label": "1"
+              },
+              "text": "Cel care face o susținere în cursul procesului trebuie să o dovedească."
+            },
+            {
+              "id": "b105f00d-face-1e55-babe-feedcafebeef",
+              "path": "10.2",
+              "classification": {
+                "type": "Sectiune",
+                "label": "A"
+              },
+              "text": "Mijloacele de probă",
+              "sections": [
+                {
+                  "id": "fadedcab-babe-c001-d0d0-feedfacedead",
+                  "path": "10.2.1",
+                  "classification": {
+                    "type": "Articol",
+                    "label": "1"
+                  },
+                  "text": "Mijloacele de probă admise de lege sunt:",
+                  "sections": [
+                    {
+                      "id": "cab005e5-dada-ba5e-b00b-facefeedcafe",
+                      "path": "10.2.1.1",
+                      "classification": {
+                        "type": "Litera",
+                        "label": "a"
+                      },
+                      "text": "înscrisurile;"
+                    },
+                    {
+                      "id": "5ca1ab1e-feed-face-babe-c0de1e55dada",
+                      "path": "10.2.1.2",
+                      "classification": {
+                        "type": "Litera",
+                        "label": "b"
+                      },
+                      "text": "proba testimonială (martorii);"
+                    },
+                    {
+                      "id": "e77e5ca1-d0d0-b00c-caca-b105f00dface",
+                      "path": "10.2.1.3",
+                      "classification": {
+                        "type": "Litera",
+                        "label": "c"
+                      },
+                      "text": "prezumțiile;"
+                    },
+                    {
+                      "id": "ca55e77e-feed-babe-c0de-1e55dadaf00d",
+                      "path": "10.2.1.4",
+                      "classification": {
+                        "type": "Litera",
+                        "label": "d"
+                      },
+                      "text": "mărturisirea uneia dintre părți;"
+                    },
+                    {
+                      "id": "f01dab1e-babe-face-feed-cab005e5dada",
+                      "path": "10.2.1.5",
+                      "classification": {
+                        "type": "Litera",
+                        "label": "e"
+                      },
+                      "text": "expertiza."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a8e5b4a0-73f1-4a1e-8742-9a3d6f4c8b9d",
+      "metadata": {
+        "title": "Codul Penal",
+        "jurisdiction": "România",
+        "date_enacted": "2020-01-02",
+        "version": "1.0",
+        "slug": "codul-penal"
+      },
+      "sections": [
+        {
+          "id": "e2a1b0f5-9c8d-4b7a-8f6e-3d4c5b6a7b8c",
+          "path": "1",
+          "classification": {
+            "type": "Sectiune",
+            "label": "1"
+          },
+          "text": "Dispoziții generale privind aplicarea legii civile",
+          "sections": [
+            {
+              "id": "f0e9d8c7-6b5a-4c3d-2b1a-0f9e8d7c6b5a",
+              "path": "1.1",
+              "classification": {
+                "type": "Articol",
+                "label": "1"
+              },
+              "text": "Legea civilă se aplică tuturor raporturilor de drept privat.",
+              "sections": [
+                {
+                  "id": "d9c8b7a6-5a4b-3c2d-1b0a-f9e8d7c6b5a4",
+                  "path": "1.1.1",
+                  "classification": {
+                    "type": "Alineat",
+                    "label": "1"
+                  },
+                  "text": "Legea civilă nu are caracter retroactiv."
+                },
+                {
+                  "id": "c8b7a6d5-4b3c-2d1b-0a9f-e8d7c6b5a4b3",
+                  "path": "1.1.2",
+                  "classification": {
+                    "type": "Alineat",
+                    "label": "2"
+                  },
+                  "text": "În cazul conflictului de legi în timp, se aplică legea în vigoare la data nașterii raportului juridic."
+                }
+              ]
+            },
+            {
+              "id": "b7a6d5c4-3b2c-1d0a-9f8e-7d6c5b4a3b2c",
+              "path": "1.2",
+              "classification": {
+                "type": "Articol",
+                "label": "2"
+              },
+              "text": "Dispozițiile legii civile se interpretează în conformitate cu voința legiuitorului și scopul normei."
+            }
+          ]
+        },
+        {
+          "id": "a6d5c4b3-2c1b-0a9f-8e7d-6c5b4a3b2c1d",
+          "path": "2",
+          "classification": {
+            "type": "Sectiune",
+            "label": "2"
+          },
+          "text": "Capacitatea juridică",
+          "sections": [
+            {
+              "id": "d5c4b3a2-1b0a-9f8e-7d6c-5b4a3b2c1d0e",
+              "path": "2.1",
+              "classification": {
+                "type": "Articol",
+                "label": "1"
+              },
+              "text": "Capacitatea de folosință este recunoscută oricărei persoane de la naștere până la deces.",
+              "sections": [
+                {
+                  "id": "c4b3a2d1-0a9f-8e7d-6c5b-4a3b2c1d0e9f",
+                  "path": "2.1.1",
+                  "classification": {
+                    "type": "Alineat",
+                    "label": "1"
+                  },
+                  "text": "Persoana dobândește capacitate juridică în mod automat, fără formalități."
+                }
+              ]
+            },
+            {
+              "id": "b3a2d1c0-9f8e-7d6c-5b4a-3b2c1d0e9f8a",
+              "path": "2.2",
+              "classification": {
+                "type": "Articol",
+                "label": "2"
+              },
+              "text": "Capacitatea de exercițiu constă în aptitudinea de a încheia acte juridice."
+            }
+          ]
+        },
+        {
+          "id": "a2d1c0b9-8e7d-6c5b-4a3b-2c1d0e9f8a7b",
+          "path": "3",
+          "classification": {
+            "type": "Sectiune",
+            "label": "3"
+          },
+          "text": "Actul juridic civil",
+          "sections": [
+            {
+              "id": "d1c0b9a8-7d6c-5b4a-3b2c-1d0e9f8a7b6c",
+              "path": "3.1",
+              "classification": {
+                "type": "Articol",
+                "label": "1"
+              },
+              "text": "Actul juridic civil este manifestarea de voință făcută cu intenția de a produce efecte juridice.",
+              "sections": [
+                {
+                  "id": "c0b9a8d7-6c5b-4a3b-2c1d-0e9f8a7b6c5d",
+                  "path": "3.1.1",
+                  "classification": {
+                    "type": "Alineat",
+                    "label": "1"
+                  },
+                  "text": "Poate fi unilateral, bilateral sau multilateral."
+                },
+                {
+                  "id": "b9a8d7c6-5b4a-3b2c-1d0e-9f8a7b6c5d4e",
+                  "path": "3.1.2",
+                  "classification": {
+                    "type": "Alineat",
+                    "label": "2"
+                  },
+                  "text": "Pentru validitate, actul juridic trebuie să întrunească următoarele condiții esențiale:",
+                  "sections": [
+                    {
+                      "id": "4e1a3b8c-1d9e-4a7b-9f8c-6e5d4c3b2a1f",
+                      "path": "3.1.2.1",
+                      "classification": {
+                        "type": "Litera",
+                        "label": "a"
+                      },
+                      "text": "consimțământul valabil al părților;"
+                    },
+                    {
+                      "id": "9d8e7c6b-5a4b-3c2d-1b0a-f9e8d7c6b5a4",
+                      "path": "3.1.2.2",
+                      "classification": {
+                        "type": "Litera",
+                        "label": "b"
+                      },
+                      "text": "capacitatea de a contracta;"
+                    },
+                    {
+                      "id": "a6b5c4d3-e2f1-0a9b-8c7d-6e5f4a3b2c1d",
+                      "path": "3.1.2.3",
+                      "classification": {
+                        "type": "Litera",
+                        "label": "c"
+                      },
+                      "text": "un obiect determinat și licit;"
+                    },
+                    {
+                      "id": "f5e4d3c2-b1a0-9f8e-7d6c-5b4a3b2c1d0e",
+                      "path": "3.1.2.4",
+                      "classification": {
+                        "type": "Litera",
+                        "label": "d"
+                      },
+                      "text": "o cauză licită și morală."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8d7c6b5a-3b2c-1d0e-9f8a-7b6c5d4e3f2a",
+          "path": "4",
+          "classification": {
+            "type": "Sectiune",
+            "label": "4"
+          },
+          "text": "Patrimoniul și drepturile reale",
+          "sections": [
+            {
+              "id": "7c6b5a4b-2c1d-0e9f-8a7b-6c5d4e3f2a1b",
+              "path": "4.1",
+              "classification": {
+                "type": "Articol",
+                "label": "1"
+              },
+              "text": "Patrimoniul este totalitatea drepturilor și obligațiilor cu valoare economică ce aparțin unei persoane."
+            },
+            {
+              "id": "5a4b3c2d-0e9f-8a7b-6c5d-4e3f2a1b0c9d",
+              "path": "4.2",
+              "classification": {
+                "type": "Articol",
+                "label": "2"
+              },
+              "text": "Dreptul de proprietate este exclusiv, perpetuu și absolut, în limitele legii."
+            }
+          ]
+        },
+        {
+          "id": "4b3c2d1e-9f8a-7b6c-5d4e-3f2a1b0c9d8e",
+          "path": "5",
+          "classification": {
+            "type": "Sectiune",
+            "label": "5"
+          },
+          "text": "Obligații și răspundere civilă",
+          "sections": [
+            {
+              "id": "3c2d1e0f-8a7b-6c5d-4e3f-2a1b0c9d8e7f",
+              "path": "5.1",
+              "classification": {
+                "type": "Articol",
+                "label": "1"
+              },
+              "text": "Obligația este raportul juridic în temeiul căruia o parte (debitor) este ținută să execute o prestație față de cealaltă parte (creditor)."
+            },
+            {
+              "id": "1e0f9a8b-6c5d-4e3f-2a1b-0c9d8e7f6a5b",
+              "path": "5.2",
+              "classification": {
+                "type": "Articol",
+                "label": "2"
+              },
+              "text": "Neexecutarea obligației atrage răspunderea civilă, dacă nu este justificată legal."
+            }
+          ]
+        },
+        {
+          "id": "0f9a8b7c-5d4e-3f2a-1b0c-9d8e7f6a5b4c",
+          "path": "6",
+          "classification": {
+            "type": "Sectiune",
+            "label": "6"
+          },
+          "text": "Contracte speciale",
+          "sections": [
+            {
+              "id": "9a8b7c6d-4e3f-2a1b-0c9d-8e7f6a5b4c3d",
+              "path": "6.1",
+              "classification": {
+                "type": "Sectiune",
+                "label": "A"
+              },
+              "text": "Contractul de vânzare",
+              "sections": [
+                {
+                  "id": "8b7c6d5e-3f2a-1b0c-9d8e-7f6a5b4c3d2e",
+                  "path": "6.1.1",
+                  "classification": {
+                    "type": "Articol",
+                    "label": "1"
+                  },
+                  "text": "Vânzarea este contractul prin care vânzătorul transmite sau, după caz, se obligă să transmită cumpărătorului proprietatea unui bun în schimbul unui preț pe care cumpărătorul se obligă să îl plătească."
+                }
+              ]
+            },
+            {
+              "id": "7c6d5e4f-2a1b-0c9d-8e7f-6a5b4c3d2e1f",
+              "path": "6.2",
+              "classification": {
+                "type": "Sectiune",
+                "label": "B"
+              },
+              "text": "Contractul de mandat",
+              "sections": [
+                {
+                  "id": "6d5e4f3a-1b0c-9d8e-7f6a-5b4c3d2e1f0a",
+                  "path": "6.2.1",
+                  "classification": {
+                    "type": "Articol",
+                    "label": "1"
+                  },
+                  "text": "Mandatul este contractul prin care o parte, numită mandatar, se obligă să încheie unul sau mai multe acte juridice pe seama celeilalte părți, numită mandant."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5e4f3a2b-0c9d-8e7f-6a5b-4c3d2e1f0a9b",
+          "path": "7",
+          "classification": {
+            "type": "Sectiune",
+            "label": "7"
+          },
+          "text": "Prescripția extinctivă și termenele",
+          "sections": [
+            {
+              "id": "4f3a2b1c-9d8e-7f6a-5b4c-3d2e1f0a9b8c",
+              "path": "7.1",
+              "classification": {
+                "type": "Articol",
+                "label": "1"
+              },
+              "text": "Dreptul la acțiune este stins prin neexercitare în termenul prevăzut de lege.",
+              "sections": [
+                {
+                  "id": "3a2b1c0d-8e7f-6a5b-4c3d-2e1f0a9b8c7d",
+                  "path": "7.1.1",
+                  "classification": {
+                    "type": "Alineat",
+                    "label": "1"
+                  },
+                  "text": "Termenul general de prescripție este de 3 ani, dacă legea nu prevede altfel."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2b1c0d9e-7f6a-5b4c-3d2e-1f0a9b8c7d6e",
+          "path": "8",
+          "classification": {
+            "type": "Sectiune",
+            "label": "8"
+          },
+          "text": "Succesiuni",
+          "sections": [
+            {
+              "id": "1c0d9e8f-6a5b-4c3d-2e1f-0a9b8c7d6e5f",
+              "path": "8.1",
+              "classification": {
+                "type": "Articol",
+                "label": "1"
+              },
+              "text": "Moștenirea este transmiterea patrimoniului unei persoane fizice decedate către una sau mai multe persoane în ființă."
+            },
+            {
+              "id": "0d9e8f7a-5b4c-3d2e-1f0a-9b8c7d6e5f4a",
+              "path": "8.2",
+              "classification": {
+                "type": "Sectiune",
+                "label": "A"
+              },
+              "text": "Moștenirea legală",
+              "sections": [
+                {
+                  "id": "9e8f7a6b-4c3d-2e1f-0a9b-8c7d6e5f4a3b",
+                  "path": "8.2.1",
+                  "classification": {
+                    "type": "Articol",
+                    "label": "1"
+                  },
+                  "text": "Moștenirea se cuvine în ordinea și în cotele determinate de lege, dacă defunctul nu a dispus altfel prin testament."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11223344-5566-7788-99aa-bbccddeeff00",
+          "path": "9",
+          "classification": {
+            "type": "Sectiune",
+            "label": "9"
+          },
+          "text": "Bunurile",
+          "sections": [
+            {
+              "id": "aabbccdd-eeff-0011-2233-445566778899",
+              "path": "9.1",
+              "classification": {
+                "type": "Articol",
+                "label": "1"
+              },
+              "text": "Sunt bunuri lucrurile, corporale sau necorporale, care constituie obiectul unui drept patrimonial."
+            },
+            {
+              "id": "ffeeddcc-bbaa-9988-7766-554433221100",
+              "path": "9.2",
+              "classification": {
+                "type": "Sectiune",
+                "label": "A"
+              },
+              "text": "Clasificarea bunurilor",
+              "sections": [
+                {
+                  "id": "deadbeef-face-b00c-cafe-babefeedbabe",
+                  "path": "9.2.1",
+                  "classification": {
+                    "type": "Articol",
+                    "label": "1"
+                  },
+                  "text": "Bunurile sunt mobile sau imobile.",
+                  "sections": [
+                    {
+                      "id": "badc0ffe-e1de-a50e-c0de-5caff01dedad",
+                      "path": "9.2.1.1",
+                      "classification": {
+                        "type": "Alineat",
+                        "label": "1"
+                      },
+                      "text": "Sunt considerate imobile prin natura lor:",
+                      "sections": [
+                        {
+                          "id": "c0ffee-d0d0-caca-baba-d0d0d0d0d0d0",
+                          "path": "9.2.1.1.1",
+                          "classification": {
+                            "type": "Litera",
+                            "label": "a"
+                          },
+                          "text": "terenurile, izvoarele și cursurile de apă;"
+                        },
+                        {
+                          "id": "decafbad-dead-beef-babe-f00dfeedbabe",
+                          "path": "9.2.1.1.2",
+                          "classification": {
+                            "type": "Litera",
+                            "label": "b"
+                          },
+                          "text": "plantațiile prinse în rădăcini;"
+                        },
+                        {
+                          "id": "feedface-ba5e-ca11-ab1e-deedfeedfade",
+                          "path": "9.2.1.1.3",
+                          "classification": {
+                            "type": "Litera",
+                            "label": "c"
+                          },
+                          "text": "clădirile și orice alte construcții încorporate în sol."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "f01dab1e-ca55-e77e-5ca1-ab1ecab005e5",
+          "path": "10",
+          "classification": {
+            "type": "Sectiune",
+            "label": "10"
+          },
+          "text": "Probațiunea",
+          "sections": [
+            {
+              "id": "ca11ab1e-fade-b10c-b00b-1e5f00d1e5ea",
+              "path": "10.1",
+              "classification": {
+                "type": "Articol",
+                "label": "1"
+              },
+              "text": "Cel care face o susținere în cursul procesului trebuie să o dovedească."
+            },
+            {
+              "id": "b105f00d-face-1e55-babe-feedcafebeef",
+              "path": "10.2",
+              "classification": {
+                "type": "Sectiune",
+                "label": "A"
+              },
+              "text": "Mijloacele de probă",
+              "sections": [
+                {
+                  "id": "fadedcab-babe-c001-d0d0-feedfacedead",
+                  "path": "10.2.1",
+                  "classification": {
+                    "type": "Articol",
+                    "label": "1"
+                  },
+                  "text": "Mijloacele de probă admise de lege sunt:",
+                  "sections": [
+                    {
+                      "id": "cab005e5-dada-ba5e-b00b-facefeedcafe",
+                      "path": "10.2.1.1",
+                      "classification": {
+                        "type": "Litera",
+                        "label": "a"
+                      },
+                      "text": "înscrisurile;"
+                    },
+                    {
+                      "id": "5ca1ab1e-feed-face-babe-c0de1e55dada",
+                      "path": "10.2.1.2",
+                      "classification": {
+                        "type": "Litera",
+                        "label": "b"
+                      },
+                      "text": "proba testimonială (martorii);"
+                    },
+                    {
+                      "id": "e77e5ca1-d0d0-b00c-caca-b105f00dface",
+                      "path": "10.2.1.3",
+                      "classification": {
+                        "type": "Litera",
+                        "label": "c"
+                      },
+                      "text": "prezumțiile;"
+                    },
+                    {
+                      "id": "ca55e77e-feed-babe-c0de-1e55dadaf00d",
+                      "path": "10.2.1.4",
+                      "classification": {
+                        "type": "Litera",
+                        "label": "d"
+                      },
+                      "text": "mărturisirea uneia dintre părți;"
+                    },
+                    {
+                      "id": "f01dab1e-babe-face-feed-cab005e5dada",
+                      "path": "10.2.1.5",
+                      "classification": {
+                        "type": "Litera",
+                        "label": "e"
+                      },
+                      "text": "expertiza."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
